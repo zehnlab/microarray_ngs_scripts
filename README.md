@@ -5,3 +5,5 @@ This repository provides the scripts of Microarray & NGS data analysis for the p
 **data**: readcount tables + design tables;
 
 **output**: differential expressed gene lists + heatmaps.
+
+***
