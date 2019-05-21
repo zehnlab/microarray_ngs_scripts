@@ -1,0 +1,5 @@
+channels:
+	- bioconda
+dependencies:
+	- bioconductor-deseq2==1.22.1
+  - r-openxlsx==4.0.17

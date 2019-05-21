@@ -1,11 +1,7 @@
 library(pheatmap)
-library(tibble)
-library(gtools)
 library(openxlsx)
-library(dplyr)
 library(ggplot2)
 
-setwd('~/MING_V9T/microarray_ngs_scripts/')
 #import data
 Filename <- c('Run29_D8','Run32_Day20','Run32_Day8_TIM3p','Run32_Day8_TIM3n')
 

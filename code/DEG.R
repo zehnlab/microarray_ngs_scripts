@@ -1,9 +1,6 @@
 library(DESeq2)
-library(tibble)
-library(gplots)
 library(openxlsx)
 
-setwd('~/FA_DEG_Heatmap/')
 Filename <- c('Run29_D8','Run32_Day20','Run32_Day8_TIM3p','Run32_Day8_TIM3n')
 
 #make sure you have installed above packages.:D
